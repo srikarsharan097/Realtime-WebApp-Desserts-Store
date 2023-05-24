@@ -1,0 +1,12 @@
+Install NetBeans 
+
+Install Glasssfish Server inside the NetBeans.
+
+Download the Database and configure it.
+
+Open both of the projects. 
+
+1. CustomerLogin
+2. BusinessLogin 
+
+Right click each project and run with different browsers.
